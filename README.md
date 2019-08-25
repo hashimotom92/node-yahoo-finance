@@ -220,3 +220,5 @@ THE SOFTWARE.
 </pre>
 
 [![Analytics](https://ga-beacon.appspot.com/UA-47034562-15/node-yahoo-finance/readme?pixel)](https://github.com/pilwon/node-yahoo-finance)
+
+test
